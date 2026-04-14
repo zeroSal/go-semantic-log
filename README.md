@@ -4,7 +4,7 @@ The modular, injectable, meaningfully colorful logger for Go
 ## Install
 
 ```bash
-go get github.com/zeroSal/go-semantic-log/semanticlog
+go get github.com/zeroSal/go-semantic-log
 ```
 
 ## Usage

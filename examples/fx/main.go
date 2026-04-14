@@ -7,7 +7,7 @@ import (
 
 	"go.uber.org/fx"
 
-	"lucasaladino.com/semanticlog/logger"
+	"github.com/zeroSal/go-semantic-log/logger"
 )
 
 const file = "/tmp/go-semantic-log-test.log"

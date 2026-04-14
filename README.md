@@ -4,7 +4,7 @@ The modular, injectable, meaningfully colorful logger for Go
 ## Install
 
 ```bash
-go get lucasaladino.com/semanticlog
+go get github.com/zeroSal/go-semantic-log/semanticlog
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ go get lucasaladino.com/semanticlog
 
 ```go
 import (
-    "lucasaladino.com/semanticlog/logger"
+    "github.com/zeroSal/go-semantic-log/logger"
 )
 
 logger := logger.NewConsoleLogger()

@@ -13,7 +13,7 @@ Simple Go semantic logger with ANSI color output.
 - `ansi/` - ANSI color constants
 
 ## Notes
-- Module: `lucasaladino.com/semanticlog`
+- Module: `github.com/zeroSal/go-semantic-log`
 - Go version: 1.25.5
 - No tests currently exist
 - Output goes to stderr (ConsoleLogger writes to os.Stderr by default)

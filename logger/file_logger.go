@@ -5,7 +5,7 @@ import (
 	"os"
 	"sync"
 
-	"lucasaladino.com/semanticlog/ansi"
+	"github.com/zeroSal/go-semantic-log/ansi"
 )
 
 var _ LoggerInterface = (*FileLogger)(nil)

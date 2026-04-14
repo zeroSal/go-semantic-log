@@ -3,8 +3,8 @@ module example-fx
 go 1.25.5
 
 require (
+	github.com/zeroSal/go-semantic-log v1.0.0
 	go.uber.org/fx v1.24.0
-	lucasaladino.com/semanticlog v0.0.0
 )
 
 require (
@@ -14,4 +14,4 @@ require (
 	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
 )
 
-replace lucasaladino.com/semanticlog => ../../
+replace github.com/zeroSal/go-semantic-log => ../../
